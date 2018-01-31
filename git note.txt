@@ -7,6 +7,7 @@ git commit -m blabla
 git status
 git diff
 
+git log
 
 time machine:
 
