@@ -6,3 +6,14 @@ git commit -m blabla
 
 git status
 git diff
+
+
+time machine:
+
+HEAD^
+HEAD^^
+HEAD~100
+
+git reset --hard 3628164
+git reflog
+
