@@ -1,0 +1,8 @@
+
+
+git add blabla.bla
+
+git commit -m blabla
+
+git status
+git diff
