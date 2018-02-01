@@ -22,3 +22,6 @@ git reflog
 compare workspace (not stage) with repository
 git diff HEAD -- readme.txt
 
+cancel the last modif (i.e. before last add or commit)
+git checkout -- readme.txt
+
