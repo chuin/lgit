@@ -25,3 +25,14 @@ git diff HEAD -- readme.txt
 cancel the last modif (i.e. before last add or commit)
 git checkout -- readme.txt
 
+
+DELETE
+
+1. to delete from repository
+git rm test.txt
+git commit -m "remove test.txt"
+
+2. deleted from workspace, recovery from repository
+git checkout -- test.txt
+"i.e. cancel the last modif"
+
